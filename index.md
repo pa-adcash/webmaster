@@ -1,8 +1,7 @@
 # PA Webmaster test task
-
 - Make a simple above-the-fold pre-lander with provided [copy](copy.md)
 - The offer page promotes VPN service on online sites
-- Use provided [skeleton](skeleton.html) as base-example, but feel free to use your creativity, rewrite and improve the page for best performance/visual appeal
+- Use provided [skeleton](skeleton.html) as base-example, but feel free to use your creativity, rewrite and improve the page for best performance/visual appeal(some custom design expected to showcase a bit of your UI/graphic design skills)
 - Host the page at your own domain or use free GitHub account ([GitHub pages](https://docs.github.com/en/github/working-with-github-pages))
 
 ### JS Part
